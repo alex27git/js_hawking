@@ -32,3 +32,4 @@ const sleep = (ms) => {
   }
   sleep(5000).then(() => { console.log('Выполнилось через 5 секунд!'); 
   });
+  
